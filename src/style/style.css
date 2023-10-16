@@ -1,4 +1,9 @@
 img {
 	height: auto;
 	width: 100%;
+	border-radius: 20px;
+}
+
+.container{
+	margin-bottom: 3vh;
 }
