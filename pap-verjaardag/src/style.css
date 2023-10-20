@@ -19,3 +19,18 @@ img {
 	box-shadow: 0px 0px 10px 0px black;
 }
 
+a{
+	margin-left: 5vw;
+	font-size: 20px;
+	color: white !important;
+	background-color: black;
+	border-radius: 5px;
+	padding-inline: 5px;
+	text-decoration: none !important;
+	transition: 500ms;
+}
+
+a:hover{
+	box-shadow: 0px 0px 10px 0px black;
+}
+
